@@ -1,0 +1,16 @@
+supplier_id,supplier_name,category,payment_terms_days
+S001,Cahaya Office Supplies Sdn Bhd,Office Supplies,30
+S002,Mega Logistik Sdn Bhd,Logistics,30
+S003,Pantas Courier Sdn Bhd  ,Logistics,30
+S004,Awan Cloud Services Sdn Bhd,IT Services,45
+S005,Teknik Jaya IT Solutions,IT Services,30
+S006,Kilau Cleaning Services,Facilities,30
+S007,Seri Kenari Catering,Catering,14
+S008,Bintang Media Agency Sdn Bhd,Marketing,60
+S009,Ombak Printing Works,Marketing,30
+S010,Tenaga Utiliti Harian,Utilities,14
+S011,Perdana Legal & Associates  ,Professional Fees,30
+S012,Sinar Audit PLT,Professional Fees,45
+S013,Rimba Furniture Trading,Facilities,30
+S014,Delima Travel & Tours,Travel,30
+S015,Nusantara Training Centre  ,Training,30

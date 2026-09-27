@@ -1,0 +1,7 @@
+dept_id,dept_name,cost_centre,approver
+D01,Finance,CC100,Aina Rahman
+D02,Human Resources,CC200,Farid Ismail
+D03,IT,CC300,Kavitha Nair
+D04,Operations,CC400,Wong Mei Ling
+D05,Marketing,CC500,Hafiz Omar
+D06,Facilities,CC600,Rajesh Kumar
