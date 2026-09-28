@@ -1,3 +1,6 @@
 .env
 .DS_Store
 *.pbix.bak
+
+# Project record: built locally, kept private
+docs/index.html
